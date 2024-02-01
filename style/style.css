@@ -1,0 +1,15 @@
+@import url("/font-awesome-4.6.3/css/font-awesome.min.css");
+@import "~@fortawesome/fontawesome-free/css/all.min.css";
+
+@media screen and (max-width: 661px) {
+  .header {
+    height: 56px;
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    background: #414042;
+  }
+  .header__label {
+    color: white;
+  }
+}
